@@ -69,3 +69,4 @@ pub fn file_syntax_diagnostics(
     db.priv_file_syntax_data(file_id).diagnostics
 }
 
+
