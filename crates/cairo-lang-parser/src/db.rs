@@ -68,3 +68,4 @@ pub fn file_syntax_diagnostics(
 ) -> Diagnostics<ParserDiagnostic> {
     db.priv_file_syntax_data(file_id).diagnostics
 }
+
